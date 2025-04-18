@@ -1,0 +1,4 @@
+1. The West region achieved the highest total sales with 0.73M, followed closely by the East region.
+2. Sales peaked in November 2017 with a total of 89K, showing strong performance during the year-end.
+3. The Technology category was the top-performing category, contributing 36.4% of total sales.
+4. The South region recorded the lowest sales, contributing only 0.39M to the overall performance.
